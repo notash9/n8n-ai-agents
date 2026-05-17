@@ -1,14 +1,15 @@
+
 # 🤖 n8n AI Agents
 
-A collection of AI automation workflows built with n8n — by Ash (BLFL Community).
+A collection of AI automation workflows built with n8n — by Aashish.
 
 ---
 
 ## 📦 Workflows
 
 ### 1. Template Bot
-**What it does:** [Write 1 line about what this agent does]  
-**Nodes used:** [e.g. AI Agent, Webhook, Gmail]  
+**What it does:ashkabot1 is an AI-powered workflow assistant built using n8n + Google Gemini that remembers conversations, fetches live weather updates, and delivers real-time news automatically.**  
+**Nodes used:Gemini** 
 
 **How to use:**
 1. Download `template_bot.json`
