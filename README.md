@@ -25,4 +25,4 @@ A collection of AI automation workflows built with n8n — by Ash (BLFL Communit
 ---
 
 ## 🔗 Connect
-Built by Ash | [BLFL Community](https://github.com/notash9)
+Built by Ash | [Team sYndiCate](https://github.com/notash9)
